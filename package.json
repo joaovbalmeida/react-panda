@@ -1,6 +1,6 @@
 {
   "name": "@joaovbalmeida/react-panda",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -26,9 +26,6 @@
     "registry": "https://npm.pkg.github.com/joaovbalmeida"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^25.0.2",
-    "@rollup/plugin-node-resolve": "^15.1.0",
-    "@rollup/plugin-typescript": "^11.1.2",
     "@types/react": "^18.2.14",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "eslint": "^8.44.0",
@@ -39,8 +36,6 @@
     "eslint-plugin-react": "^7.32.2",
     "prettier": "3.0.0",
     "react": "^18.2.0",
-    "rollup": "^3.26.2",
-    "rollup-plugin-dts": "^5.3.0",
     "typescript": "^5.1.6"
   }
 }
